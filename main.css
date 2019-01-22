@@ -1,0 +1,123 @@
+        body {
+            background-color: #ffffff;
+            background-position: center;
+            background: url(file:///Users/tonidarden/Desktop/Screen%20Shot%202019-01-02%20at%208.02.58%20PM.png);
+            background-repeat: no-repeat;
+            background-size: 300px 300px;
+        }
+        
+        .header-titles {
+            position: absolute;
+            right: 60px;
+            top: 60px;
+        }
+        
+        h1 {
+            color: #191919;
+            font-size: 90px;
+            text-align: 50px 150px;
+        }
+        
+        h2 {
+            color: #4d4957;
+            font-size: 20px;
+            letter-spacing: 15px;
+            text-align: center;
+        }
+        
+        h3 {
+            position: fixed;
+            width: 100px;
+            height: 100px;
+            left: 10px;
+            top: 100px;
+        }
+        
+        ul {
+            letter-spacing: 15px;
+            font-size: 15px;
+            margin: 0;
+            padding: 0;
+        }
+        
+        a:link {
+            text-decoration: none;
+            color: red;
+        }
+        
+        a:visited {
+            color: red;
+        }
+        
+        a:hover {
+            color: grey;
+        }
+        
+        a:active {
+            color: grey;
+        }
+        
+        h4 {
+            color: #000000;
+            right: 100%;
+            font-size: 15px;
+            letter-spacing: 0px;
+            text-align: 50%;
+            width: 40%;
+        }
+        
+        h5 {
+            font-size: 50px;
+            text-align: center;
+        }
+        
+        h6 {
+            color: #615858;
+            right: 100%;
+            font-size: 35px;
+            letter-spacing: 0px;
+            text-align: 90%;
+            width: 40%;
+        }
+        
+        h7 {
+            color: #070606;
+            font-size: 20px;
+            text-align: 5px 5px;
+        }
+        
+        .video-container {
+            position: absolute;
+            padding-bottom: 56.25%;
+            padding-top: 30px;
+            height: 0;
+            overflow: hidden;
+        }
+        
+        .video-container iframe,
+        .video-container object,
+        .video-container embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .video-wrapper {
+            width: 640px;
+            float: none;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 100%;
+        }
+        
+        div.c {
+            letter-spacing: 2.5px;
+            font-size: 15px;
+            margin: 50;
+            padding: 50;
+            color: rgb(206, 10, 10);
+            right: 25%;
+            left: 45%;
+        }
